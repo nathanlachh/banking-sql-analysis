@@ -1,7 +1,7 @@
 # Banking SQL Analysis
 
 A comprehensive SQL analysis of a synthetic banking dataset containing 1,260,500 total 
-records across 6 relational tables — 50,000 customers, 75,000 accounts, 100,000 cards, 
+records across 7 relational tables — 50,000 customers, 75,000 accounts, 100,000 cards, 
 30,000 loans, 5,000 merchants, 500 branches, and 1,000,000 transactions.
 
 ## Bank Summary
@@ -63,7 +63,7 @@ records across 6 relational tables — 50,000 customers, 75,000 accounts, 100,00
 - DB Browser for SQLite
 
 ## Dataset
-Synthetic Banking Dataset from Kaggle — 6 tables including customers, accounts, 
-loans, cards, transactions, and merchants.
+Synthetic Banking Dataset from Kaggle — 7 tables including customers, accounts, 
+loans, cards, transactions, branches, and merchants.
 [View Dataset on Kaggle](https://www.kaggle.com/datasets/akrambelha/synthetic-banking-dataset-csv-sql-sqlite/data)
 
