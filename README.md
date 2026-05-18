@@ -20,7 +20,6 @@ A comprehensive SQL analysis of a synthetic banking dataset containing 50,000 cu
 - Identified customers with loans but no credit card — potential upsell targets for the bank
 
 ## Sample Results
-
 ### Bank Summary
 ![Bank Summary](results/bank%20summary.png)
 
@@ -36,7 +35,7 @@ A comprehensive SQL analysis of a synthetic banking dataset containing 50,000 cu
 ### Top Spending Customers
 ![Top Spending Customers](results/top%20spending%20customers.png)
 
-### Questions Answered
+## Questions Answered
 **Single Table**
 - Total customer count and account distribution by type
 - Total loan amount issued and average interest rate
