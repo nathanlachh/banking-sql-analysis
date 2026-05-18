@@ -16,7 +16,7 @@ records across 6 relational tables — 50,000 customers, 75,000 accounts, 100,00
 
 ## Key Findings
 - 25,355 customers fall into the Poor credit score band — the largest segment
-- Smith Ltd is the top merchant by transaction volume at nearly $10 million
+- Stuart and Sons is the top merchant by transaction volume at $1.34 million
 - Interest rates showed no significant variation across credit score bands (8.52%–8.57%)
 - Michael Smith is the highest spending customer at $3.1 million in transactions
 - Identified customers with loans but no credit card — potential upsell targets for the bank
