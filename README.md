@@ -27,7 +27,7 @@ A comprehensive SQL analysis of a synthetic banking dataset containing 50,000 cu
 - Total and average transaction amount across 1 million transactions
 
 **Joining Tables**
-- Credit score segmentation across Poor, Fair, Good, and Excellent bands
+- Credit score segmentation across Poor, Fair, Good, and Excellent categories
 - Top 10 customers by total account balance
 - Top 10 customers by total loan amount and average interest rate
 - Top 10 accounts by total transaction volume
