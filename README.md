@@ -63,3 +63,5 @@ A comprehensive SQL analysis of a synthetic banking dataset containing 50,000 cu
 ## Dataset
 Synthetic Banking Dataset from Kaggle — 6 tables including customers, accounts, 
 loans, cards, transactions, and merchants.
+[View Dataset on Kaggle](https://www.kaggle.com/datasets/akrambelha/synthetic-banking-dataset-csv-sql-sqlite/data)
+
