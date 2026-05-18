@@ -19,6 +19,23 @@ A comprehensive SQL analysis of a synthetic banking dataset containing 50,000 cu
 - Michael Smith is the highest spending customer at $3.1 million in transactions
 - Identified customers with loans but no credit card — potential upsell targets for the bank
 
+## Sample Results
+
+### Bank Summary
+![Bank Summary](results/bank%20summary.png)
+
+### Credit Score Categories
+![Credit Categories](results/credit%20categories.png)
+
+### Interest Rate by Credit Category
+![Interest Rate by Credit Category](results/interest%20rate%20by%20credit%20category.png)
+
+### Top Merchants by Transaction Volume
+![Top Merchants](results/top%20merchants.png)
+
+### Top Spending Customers
+![Top Spending Customers](results/top%20spending%20customers.png)
+
 ### Questions Answered
 **Single Table**
 - Total customer count and account distribution by type
