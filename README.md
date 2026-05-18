@@ -1,6 +1,8 @@
 # Banking SQL Analysis
 
-A comprehensive SQL analysis of a synthetic banking dataset containing 50,000 customers, 75,000 accounts, and 1 million transactions.
+A comprehensive SQL analysis of a synthetic banking dataset containing 1,260,500 total 
+records across 6 relational tables — 50,000 customers, 75,000 accounts, 100,000 cards, 
+30,000 loans, 5,000 merchants, 500 branches, and 1,000,000 transactions.
 
 ## Bank Summary
 | Metric | Value |
