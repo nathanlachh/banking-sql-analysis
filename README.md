@@ -25,8 +25,8 @@ records across 6 relational tables — 50,000 customers, 75,000 accounts, 100,00
 ### Bank Summary
 ![Bank Summary](results/bank%20summary.png)
 
-### Credit Score Categories
-![Credit Categories](results/credit%20categories.png)
+### Upsell Targets
+![Upsell Targets](results/upsell%20targets.png)
 
 ### Interest Rate by Credit Category
 ![Interest Rate by Credit Category](results/interest%20rate%20by%20credit%20category.png)
